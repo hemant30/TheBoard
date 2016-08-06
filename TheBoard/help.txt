@@ -1,1 +1,1 @@
-this is master help page
+this is master help page from master
