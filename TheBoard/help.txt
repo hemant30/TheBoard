@@ -1,1 +1,3 @@
 this is master help page from master
+
+this note added to master branch after navigation branch created.
